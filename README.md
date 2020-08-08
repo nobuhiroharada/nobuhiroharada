@@ -2,10 +2,7 @@
 
 Hi, I'm Nobuhiro Harada - Web, iOS developer in Tokyo. 4 years of experience in open/web system development.
 
-
-# Portfolios
-* Portfolio Site: [https://nobuhiroharada.github.io/simple-resume/](https://nobuhiroharada.github.io/simple-resume/)
-* Personal Site : [https://nobuhiroharada.com](https://nobuhiroharada.com)(made by Gatsby)
+<br/>
 
 # Technical Skills
 * Langage: PHP, JavaScript, Swift
@@ -13,6 +10,12 @@ Hi, I'm Nobuhiro Harada - Web, iOS developer in Tokyo. 4 years of experience in 
 * OS: macOS, Linux, Windows
 * Database: MySQL, PostgreSQL
 * Others: Git, Vi
+
+<br/>
+
+# Portfolios
+* Portfolio Site: [https://nobuhiroharada.github.io/simple-resume/](https://nobuhiroharada.github.io/simple-resume/)
+* Personal Site : [https://nobuhiroharada.com](https://nobuhiroharada.com)(made by Gatsby, deployed at Netlify)
 
 <br/>
 
