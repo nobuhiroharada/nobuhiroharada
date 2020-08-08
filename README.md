@@ -1,6 +1,6 @@
-# nobuhiroharada
+# Nobuhiro Harada (原田　順啓)
 
-Hi, I'm Nobuhiro Harada - Web, iOS developer in Tokyo. 4 years of experience in open/web system development.
+Hi, I'm nobu. - Web, iOS developer in Tokyo.
 
 <br/>
 
