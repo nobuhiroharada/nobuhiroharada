@@ -14,7 +14,7 @@ Hi, I'm nobu. - Web, iOS developer in Tokyo.
 <br/>
 
 # Portfolios
-* Portfolio Site: [https://nobuhiroharada.github.io/simple-resume/](https://nobuhiroharada.github.io/simple-resume/)
+* Portfolio Site: [https://nobuhiroharada.github.io/portfolio-2/](https://nobuhiroharada.github.io/portfolio-2/)
 * Personal Site : [https://nobuhiroharada.com](https://nobuhiroharada.com)(made by Gatsby, deployed at Netlify)
 
 <br/>
