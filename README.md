@@ -1,20 +1,20 @@
 # Nobuhiro Harada (原田　順啓)
 
-Hi, I'm nobu. - Web, iOS developer in Tokyo.
+Hi, I'm nobu. - Web application developer in Tokyo.
 
 <br/>
 
 # Technical Skills
-* Langage: PHP, JavaScript, Swift
-* Framework: Laravel, Zend Framework, Gatsby
+* Langage: PHP, JavaScript
+* Framework: Laravel, Zend Framework, CakePHP, Gatsby
 * OS: macOS, Linux, Windows
 * Database: MySQL, PostgreSQL
-* Others: Git, Vi
+* Others: Git
 
 <br/>
 
 # Portfolios
-* Portfolio Site: [https://nobuhiroharada.github.io/portfolio-2/](https://nobuhiroharada.github.io/portfolio-2/)
+* Portfolio Site: [https://nobuhiroharada.github.io/portfolio-3/](https://nobuhiroharada.github.io/portfolio-3/)
 * Personal Site : [https://nobuhiroharada.com](https://nobuhiroharada.com)(made by Gatsby, deployed at Netlify)
 
 <br/>
